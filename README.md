@@ -2,4 +2,4 @@
 
 4chan発祥のmeme「Backrooms」を下敷きとしたテキストベースのRPGを遊ぶためのカスタムインストラクションです。
 
-Gemini 2.5 Proで動作確認。
+Gemini 2.5 （Flash/Pro）で動作確認。
